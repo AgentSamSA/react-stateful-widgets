@@ -28,7 +28,7 @@ STEPS 4, 5, 6:
   Inside these click handlers set the correct mood, using 'setMood' and the variables below the imports.
 */
 
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 
 const initialMood = 'Not sure how I feel';
 const happyMood = 'Quite happy!';
